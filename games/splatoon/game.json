@@ -1,0 +1,232 @@
+{
+  "name": "splatoon",
+  "titleIds": [
+    "0005000010176900"
+  ],
+  "mods": [
+    {
+      "id": "678828",
+      "name": "callie-s-octo-earrings-for-octos-reimagined",
+      "type": "mod",
+      "version": "1.0",
+      "author": "Th3OctoG1rl",
+      "description": "This is the first mod I made and I hope you enjoy it! I only tested it on actual Wii U hardware, so I'm not sure if this would work for Cemu users. This mod replaces the Full Moon Glasses.\n\nThis mod was made specifically for those who have the Octos: Reimagined rival ears. (it looks weird on normal inklings) The Octos: Reimagined mod is not mine, it is Th3OctoG1rl's, so please support them!!\n\nHope you enjoy!! :D\n\n(I might make the rest of Callie's outfit in the future)",
+      "download": "https://gamebanana.com/dl/1706995",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/678828?type=large"
+    },
+    {
+      "id": "680397",
+      "name": "Blooper Hat from Mii Plaza",
+      "type": "mod",
+      "version": "0.8",
+      "author": "dexxioballs",
+      "description": "bloop... bloop... bloop...\n\nbananagpt create a description\n\nIncludes:\n1. The Blooper Hat\n\n2. \"Blooper Hat\" Message file\n\n3. Layout image\n\n4. High-res textures (twice the size from Mii Plaza the 3DS game!)\nSoon-to-be-added\n\nA better icon\n\nHigher quality model\n\nEmmision texture as I already have made one\n\nLoD models\n\nNOTES!\n\nUntested\n\nty to nico 3k for testing on cemu and the model is 10x as large as i imported (i blame blender) so if you have a ufo with tentacles sticking out, that was me\n\nalso they said it crashes w/ the message and layout file so uh\n\n\n\nmessage file is evil don't use it btw\n\n\n\nCREDITS\n--------------\ntMR for the model!\n2k_y for offering to help!\nniko for the screenshots!\nwinterberry for the screenshots!\nBlender for working for fucking once...\nSwitch Toolbox (KillXGaming) for working!\nMSBT Editor (Reloaded) for working!",
+      "download": "https://gamebanana.com/dl/1711551",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/680397?type=large",
+      "license": "You can reupload this aslong as you give credit by one of my aliases: mike giada0019 mike00.gkc dexx.io dexxioballs daniel0019 gampiss.rpx",
+      "tags": [
+        "Headgear.skins"
+      ]
+    },
+    {
+      "id": "579927",
+      "name": "Bravo spawns for msn maps & Spawns for dojo maps",
+      "type": "mod",
+      "version": "4",
+      "author": "KiwiTheServerCrasher",
+      "description": "This mod adds spawns for team bravo (enemy team) in some story mode maps and to all dojo maps. This prevents one of the teams (if you select a story mode stage online in private battles) from falling forever to the void because they didn't have a spawn position. This mod was mainly created to use it online in private battles (with some hack that allows you to play these stages online) and not in story mode and dojo (tho you can use it in them)\n\nNOTE: EVERY PLAYER IN THE LOBBY NEEDS TO USE THIS MOD OR ELSE IT WILL CAUSE DESYNCS!\n\nHere's a list of the maps this mod currently modifies:\n\nOctoling Invasion (ID: 1008)\nUnidentified Flying Object (ID: 1009)\nOctoling Assault (ID: 1014)\nUndeniable Flying Object (ID: 1015)\nSpinning Spreaders (ID: 1018)\nOctoling Uprising (ID: 1020)\nUnwelcome Flying Object (ID: 1021)\nOctoling Onslaught (ID: 1026)\nUnavoidable Flying Object (ID: 1027)\nMouth Boss (ID: 1104)\nDojo Urchin Underpass (ID: 2000)\nDojo Walleye Warehouse (ID: 2001)\nDojo Saltspray Rig (ID: 2002)\nDojo Arowana Mall (ID: 2003)\nDojo Blackbelly Skatepark (ID: 2004)\n\nI know the number of maps is kinda limited but I'll see if I can add more to this list in the future.\n\nNOTE THAT THIS MOD ALSO MODIFIES THE STAGES IN STORY MODE. THIS MOD CAUSES SOME OF THE STAGES TO BE IMPOSSIBLE TO BEAT DUE TO THE SPAWN BLOCKING ACCESS TO THE ZAPFISH.\n\nTHIS IS A STATIC PACK EDIT, I DON'T KNOW IF NOHASH IS NEEDED FOR THIS TO WORK ONLINE BUT USE IT ANYWAY\n\nthis mod should be safe to use online as it only modifies the story mode maps and doesn't do anything to normal maps.\n\nIf you find anything weird in this mod, warn me. I guess this mod works on CEMU too but I haven't tested that.",
+      "download": "https://gamebanana.com/dl/1710140",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/579927?type=large",
+      "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
+      "tags": [
+        "Static.Game files"
+      ]
+    },
+    {
+      "id": "678866",
+      "name": "Playable Pomni from TADC",
+      "type": "mod",
+      "version": "1.0",
+      "author": "Jonnas36, Claygolor",
+      "description": "This mod replaces Inkling girl with Pomni from The Amazing Digital Circus!\n\nSpecial thanks to Jonnas36, Pomni's model is extracted from his MK8D mod!",
+      "download": "https://gamebanana.com/dl/1707100",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/678866?type=large",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a0e5d795860d.jpg"
+      ],
+      "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
+      "tags": [
+        "Characters.Skins"
+      ]
+    },
+    {
+      "id": "677362",
+      "name": "Splatoon2 TestMap",
+      "type": "mod",
+      "version": "2",
+      "author": "taiyakisanntarou",
+      "description": "I ported the test map from the Splatoon 2 Debug Build to Splatoon 1.\n\nThis mod was made on a whim, so I haven't tested it on the console, and there are probably bugs.",
+      "download": "https://gamebanana.com/dl/1704932",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/677362?type=large",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a0adb661b421.jpg"
+      ],
+      "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
+      "tags": [
+        "Modeled.Maps"
+      ]
+    },
+    {
+      "id": "677744",
+      "name": "Beta Sloshers restored!",
+      "type": "mod",
+      "version": "Unknown",
+      "author": "Ly!",
+      "description": "I found these Slosher models inside an old Splatoon Kiosk Demo and decided to port them over to the retail version to prevent it being Lost Media. All of them are model swaps only since there werent any sounds or icons etc left in the kiosk demo.\n\nTHIS MOD IS ONLINE/PRETENDO SAFE\n\n-edited slosher UI soon",
+      "download": "https://gamebanana.com/dl/1703392",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/677744?type=large",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a08c21109e0c.jpg"
+      ],
+      "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
+      "tags": [
+        "Weapons.Game files"
+      ]
+    },
+    {
+      "id": "676264",
+      "name": "Octoshot over Splattershot Pro",
+      "type": "mod",
+      "version": "Unknown",
+      "author": "Octo07",
+      "description": "This is a mod I made for someone. The Forge textures might be bugged. I have not tested it much in game. Let me know if I need to update this mod in the future.",
+      "download": "https://gamebanana.com/dl/1698368",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/676264?type=large",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a00c8efea067.jpg"
+      ],
+      "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
+      "tags": [
+        "Weapons.Skins"
+      ]
+    },
+    {
+      "id": "676257",
+      "name": "Rival octoling",
+      "type": "modpack",
+      "version": "Unknown",
+      "author": "Candy.Minou, Th3OctoG1rl, Claygolor, Squddy",
+      "description": "This mod is for someone I'm helping out. The models and textures are not mine and are from the octos Reimagined, Rival Hair Physics, Rival octoling gear, Splatoon+, Better Rival Octolings, and Rivals HD. If any of the authors of the mod want me to take this down just let me know.",
+      "download": "https://gamebanana.com/dl/1698340",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/676257?type=large",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a00c4a44b043.jpg"
+      ],
+      "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
+      "tags": [
+        "Skins"
+      ]
+    },
+    {
+      "id": "674448",
+      "name": "Raiders Hairstyle port",
+      "type": "mod",
+      "version": "1.0",
+      "author": "Claygolor, Bunneh98",
+      "description": "This mod was originally made for Splatoon 3 by Bunneh98, I just ported it for the Inkling girl!",
+      "download": "https://gamebanana.com/dl/1692307",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/674448?type=large",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/69f78d84e060f.jpg"
+      ],
+      "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
+      "tags": [
+        "Characters.Skins"
+      ]
+    },
+    {
+      "id": "670910",
+      "name": "Splatoon Music Pack Funk 67",
+      "type": "mod",
+      "version": "Unknown",
+      "author": "KatsuMaki, Obilaxo, Exrazer, bossawayy",
+      "description": "This mod was created wfor people who want to feel the aura inside their ears and body.\n\nThis pack contains multiples track to replace the lobby music, plaza music, shops, games, win, lose and some SFX in the Sound.pack\n\nif you have any issue, question or any idea for the future of this pack dm me on discord\ndiscord : usbloadergx",
+      "download": "https://gamebanana.com/dl/1681045",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/670910?type=large",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/69e51973da5ae.jpg"
+      ],
+      "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
+      "tags": [
+        "Other/Misc.Game files"
+      ]
+    },
+    {
+      "id": "669366",
+      "name": "Springfest (Splat1._.Fest)",
+      "type": "mod",
+      "version": "1.5",
+      "author": "Th3OctoG1rl",
+      "description": "This mod is made for the custom splatfest event inside Splat1._.Fest.\nTo play, join the server\n\nInside these files you will find the mod and the splatfest shared save data.\n\nThe mod files include:\n\n-New gear\n-A new stage (gusher town, 100% working)\n-Plaza decorations\n-Splatfest files\n-Casual gear idols\n-Custom color lock (hare vs tortoise)\n-Splatfest songs on VS\nAnd even more.\n\nI hope you guys really like it, it took me a month or so.\n\nIt's all ONLINE SAFE\n\nThe theme is Rainbows vs Shooting stars!\nFor instructions on how to set up boss files, look at the description of:\nhttps://gamebanana.com/mods/649660\n\nEnjoy!",
+      "download": "https://gamebanana.com/dl/1676166",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/669366?type=large",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/69dd6615bf6df.jpg"
+      ],
+      "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
+      "tags": [
+        "Other/Misc.Game files"
+      ]
+    },
+    {
+      "id": "667413",
+      "name": "RIVALS HD",
+      "type": "mod",
+      "version": "Unknown",
+      "author": "Squ1ddy",
+      "description": "Includes subtle improvements to the rivals such as...\n\nEyebrow normals\n\nFixes to the undereye markings whenever the player is squinting \n\nImproved hlf form \n\nExperimental hair physics inspired by Splatoon 2\n(please note that the tentacles may appear deformed during some animations) \n\nRival Unpatch recommended but not required (MUST USE A MODDED SAVE)\nONLINE SAFE",
+      "download": "https://gamebanana.com/dl/1670174",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/667413?type=large",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/69d55a481aa43.jpg"
+      ],
+      "license": "MIT License  Copyright (c) 2025 techmuse  Permission is hereby granted, free of charge, to any person obtaining a copy  of this software and associated documentation files (the \"Software\"), to deal  in the Software without restriction, including without limitation the rights  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  copies of the Software, and to permit persons to whom the Software is  furnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in all  copies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  SOFTWARE.",
+      "tags": [
+        "Skins"
+      ]
+    },
+    {
+      "id": "661814",
+      "name": "Playable Kirby and Waddle Dee BETA v0.4",
+      "type": "mod",
+      "version": "Beta v0.4",
+      "author": "Claygolor",
+      "description": "The Inklings are taking a break!\nThis mod replaces the player with Kirby and Waddle Dee, fully playable.\n\nWhat does this mod includes?\nKirby and Waddle Dee as playable characters with their own animations from Kirby games.\nShadow Kirby as rival Octolings.\nJelly copy ability as squids and octopuses.\nThe 3 characters have their own voices.\nSome Kirby copy ability hats (most of them are replacing glasses)\nLegendary Air Ride Machine: Hydra, replacing the Kraken.\nIncludes some Kirby themes for battles and lobby (most of them are from Dream Buffet)\n\n\n\nKnown bugs:\nRollers, brushes and snipers doesn't work perfectly.\nFace animations not displaying properly.\nWeird model distortion in Moray Towers and Blackbelly Skatepark.\n\n\nFuture updates:\nModel improvement.\nTeam colored characters.\nMore headgear and clothing compatibility.\nInk tank compatibility.\nMissing player voices.\nAmiibo animations.\nAnd more!\n\n\nThe mod is compatible with Rival Unpatch (allows you to play as Shadow Kirby), the Cemu files already include the patch and the Wii U files include the aroma patch in case that you don't have it.\n\n\nThe mod is still a BETA! \nNot all the vanilla headgear works fine for the characters, ink tanks aren't visible and there are some visual bugs at some stages. I'll keep updating the mod frequently.\n\nPlease consider sending me a message or commenting on any other bugs or suggestions!",
+      "download": "https://gamebanana.com/dl/1652302",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/661814?type=large",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/69bc93aa94f7a.jpg"
+      ],
+      "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
+      "tags": [
+        "Skins"
+      ]
+    },
+    {
+      "id": "658973",
+      "name": "Splatoon2 Half kid",
+      "type": "mod",
+      "version": "1.1",
+      "author": "taiyakisanntarou",
+      "description": "Changes the appearance of the Half Kid form (I don't know the official name) to that of Splatoon 2.\n\nThe body pattern becomes invisible, and the entire body is covered in ink.\n\nIn the Girl form, the hair is removed.\n\nThis was created to be used in conjunction with the Splatoon 2 Animation MOD.\nhttps://gamebanana.com/mods/509278",
+      "download": "https://gamebanana.com/dl/1650040",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/658973?type=large",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/69af9082d3ba5.jpg"
+      ],
+      "tags": [
+        "Characters.Skins"
+      ]
+    }
+  ]
+}

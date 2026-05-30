@@ -1,0 +1,12 @@
+{
+  "formatVersion": 1,
+  "name": "All games",
+  "author": "opsychoses-dev",
+  "description": "i try to add all games to it",
+  "version": "1",
+  "games": [
+    {
+      "path": "games/splatoon/game.json"
+    }
+  ]
+}
